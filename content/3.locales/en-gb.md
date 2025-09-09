@@ -48,7 +48,7 @@ $faker->houseNumber(); // 104
 
 #### Post code
 ```php
-$faker->postCode(); // LD40 2QH
+$faker->postcode(); // LD40 2QH
 ```
 
 #### Full Address
